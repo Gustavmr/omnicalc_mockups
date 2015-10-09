@@ -1,3 +1,25 @@
 body {
+}
 
+.list-group-item {
+  width: 100%;
+  text-align: left;
+}
+
+.glabeling {
+list-style-type:  none;
+padding-left:   0;
+}
+
+.restext {
+width: 160px;
+text-align: right;
+font-weight:  bold;
+}
+
+
+.anstext {
+text-align: left;
+list-style-type:  none;
+padding-left: 20px;
 }
